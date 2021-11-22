@@ -11399,7 +11399,7 @@ section.resume-section {
   align-items: center;
 }
 section.resume-section .resume-section-content {
-  width: 75%;
+  width: 100%;
 }
 
 @media (min-width: 768px) {
