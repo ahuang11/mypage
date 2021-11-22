@@ -11396,7 +11396,7 @@ p.lead {
 
 section.resume-section {
   display: flex;
-  align-items: center;
+  align-items: left;
 }
 section.resume-section .resume-section-content {
   width: 100%;
